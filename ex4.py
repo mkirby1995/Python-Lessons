@@ -1,3 +1,6 @@
+# Exercise 4: Variables and Names
+# set 4 of 52, 7.6%
+
 cars = 100
 space_in_a_car = 4.0
 driver = 30
